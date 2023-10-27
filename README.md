@@ -3,7 +3,7 @@
 <br /><br />
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaikojima05&theme=react)
 <br /><br />
-![](https://github-readme-stats.vercel.app/apiusername=kaikojima05&show_icons=true&theme=react)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=kaikojim05&show_icons=true&locale=en&layout=compact)
 <br /><br />
 ## Programming Languages
 
