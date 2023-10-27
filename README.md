@@ -1,5 +1,5 @@
 ## About Me 👋
-<br /><br />
+<br />
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaikojima05&theme=react)
 <br /><br />
 
