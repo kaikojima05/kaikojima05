@@ -1,4 +1,4 @@
 ### About Me 👋
 
-![Anurag's GitHub stats]
-(https://github-readme-stats.vercel.app/apiusername=●●●&show_icons=true&theme=★★★)
+<br /><br />
+![](https://github-readme-stats.vercel.app/apiusername=●●●&show_icons=true&theme=★★★)
