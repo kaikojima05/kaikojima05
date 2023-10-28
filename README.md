@@ -9,4 +9,4 @@
 
 ## Frameworks and Library 🖼️
 
-<img src="https://skillicons.dev/icons?i=react,next,laravel" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,newt" /> <br /><br />
